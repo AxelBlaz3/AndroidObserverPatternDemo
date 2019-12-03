@@ -1,0 +1,1 @@
+Explanation - https://code.tutsplus.com/tutorials/android-design-patterns-the-observer-pattern--cms-28963
