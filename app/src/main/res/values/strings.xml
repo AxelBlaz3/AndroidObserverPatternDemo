@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Observable Pattern</string>
+    <string name="default_text">Text will update after 2 seconds</string>
 </resources>
